@@ -24,4 +24,4 @@ cd Snake
 python main.py 
 ```
 
-![image](https://github.com/KOOLDE/Snake/img/snake.png?raw=true)
+![image](https://github.com/KOOLDE/Snake/blob/master/img/snake.png?raw=true)
